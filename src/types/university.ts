@@ -41,7 +41,7 @@ export type Region =
   | "chugoku_shikoku"
   | "kyushu_okinawa";
 
-export type UniversityType = "national" | "public" | "private";
+export type UniversityType = "national_public" | "private";
 
 export interface University {
   slug: string;
@@ -70,8 +70,7 @@ export const REGION_LABELS: Record<Region, string> = {
 };
 
 export const TYPE_LABELS: Record<UniversityType, string> = {
-  national: "国立",
-  public: "公立",
+  national_public: "国公立",
   private: "私立",
 };
 

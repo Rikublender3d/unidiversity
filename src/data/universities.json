@@ -1,248 +1,23 @@
 [
   {
-    "slug": "aozora-university",
-    "name": "青空大学",
-    "region": "kanto",
-    "type": "national",
-    "prefecture": "東京都",
-    "website": "https://example.com/aozora",
-    "lgbtqPolicies": {
-      "preferredName": "yes",
-      "samePartner": "partial",
-      "genderNeutralRestroom": "yes",
-      "genderFormConsideration": "yes",
-      "sogiTraining": "yes",
-      "antiOutingPolicy": "yes"
-    },
-    "supportSystem": {
-      "dedicatedConsultation": "yes",
-      "counselorSogiTraining": "yes",
-      "harassmentCooperation": "yes"
-    },
-    "studentGroups": [
-      {
-        "name": "青空レインボー",
-        "description": "学内のLGBTQ+学生が集まる公認サークル。月例イベントや相談会を実施。"
-      }
-    ],
-    "declaration": {
-      "diversityDeclaration": true,
-      "publicPolicy": true,
-      "actionPlan": true,
-      "relatedUrls": [
-        {
-          "label": "ダイバーシティ推進本部",
-          "url": "https://example.com/aozora/diversity"
-        }
-      ]
-    },
-    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
-    "sources": [
-      {
-        "label": "青空大学ダイバーシティ推進（ダミー）",
-        "url": "https://example.com/aozora/diversity"
-      }
-    ],
-    "updatedAt": "2026-03-01"
-  },
-  {
-    "slug": "momiji-university",
-    "name": "紅葉大学",
-    "region": "kinki",
-    "type": "national",
-    "prefecture": "京都府",
-    "website": "https://example.com/momiji",
-    "lgbtqPolicies": {
-      "preferredName": "yes",
-      "samePartner": "partial",
-      "genderNeutralRestroom": "partial",
-      "genderFormConsideration": "yes",
-      "sogiTraining": "yes",
-      "antiOutingPolicy": "yes"
-    },
-    "supportSystem": {
-      "dedicatedConsultation": "yes",
-      "counselorSogiTraining": "partial",
-      "harassmentCooperation": "yes"
-    },
-    "studentGroups": [
-      {
-        "name": "紅葉レインボーネットワーク",
-        "description": "セクシュアルマイノリティの学生・教職員のための交流団体。"
-      }
-    ],
-    "declaration": {
-      "diversityDeclaration": true,
-      "publicPolicy": true,
-      "actionPlan": true,
-      "relatedUrls": [
-        {
-          "label": "男女共同参画推進センター",
-          "url": "https://example.com/momiji/equity"
-        }
-      ]
-    },
-    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
-    "sources": [
-      {
-        "label": "紅葉大学男女共同参画推進センター（ダミー）",
-        "url": "https://example.com/momiji/equity"
-      }
-    ],
-    "updatedAt": "2026-02-15"
-  },
-  {
-    "slug": "hikari-university",
-    "name": "ひかり大学",
-    "region": "kanto",
-    "type": "private",
-    "prefecture": "東京都",
-    "website": "https://example.com/hikari",
-    "lgbtqPolicies": {
-      "preferredName": "yes",
-      "samePartner": "yes",
-      "genderNeutralRestroom": "yes",
-      "genderFormConsideration": "yes",
-      "sogiTraining": "partial",
-      "antiOutingPolicy": "yes"
-    },
-    "supportSystem": {
-      "dedicatedConsultation": "yes",
-      "counselorSogiTraining": "yes",
-      "harassmentCooperation": "yes"
-    },
-    "studentGroups": [
-      {
-        "name": "ひかりプライド",
-        "description": "LGBTQ+学生団体。啓発イベントやスピーカーセッションを実施。"
-      }
-    ],
-    "declaration": {
-      "diversityDeclaration": true,
-      "publicPolicy": true,
-      "actionPlan": false,
-      "relatedUrls": [
-        {
-          "label": "ダイバーシティ推進室",
-          "url": "https://example.com/hikari/diversity"
-        }
-      ]
-    },
-    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
-    "sources": [
-      {
-        "label": "ひかり大学ダイバーシティ推進室（ダミー）",
-        "url": "https://example.com/hikari/diversity"
-      }
-    ],
-    "updatedAt": "2026-01-20"
-  },
-  {
-    "slug": "michinoku-university",
-    "name": "みちのく大学",
-    "region": "tohoku",
-    "type": "national",
-    "prefecture": "宮城県",
-    "website": "https://example.com/michinoku",
-    "lgbtqPolicies": {
-      "preferredName": "yes",
-      "samePartner": "no",
-      "genderNeutralRestroom": "partial",
-      "genderFormConsideration": "partial",
-      "sogiTraining": "partial",
-      "antiOutingPolicy": "partial"
-    },
-    "supportSystem": {
-      "dedicatedConsultation": "partial",
-      "counselorSogiTraining": "partial",
-      "harassmentCooperation": "yes"
-    },
-    "studentGroups": [],
-    "declaration": {
-      "diversityDeclaration": true,
-      "publicPolicy": true,
-      "actionPlan": false,
-      "relatedUrls": [
-        {
-          "label": "男女共同参画推進センター",
-          "url": "https://example.com/michinoku/gender"
-        }
-      ]
-    },
-    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
-    "sources": [
-      {
-        "label": "みちのく大学ダイバーシティ推進（ダミー）",
-        "url": "https://example.com/michinoku/diversity"
-      }
-    ],
-    "updatedAt": "2025-12-10"
-  },
-  {
-    "slug": "naniwa-university",
-    "name": "浪速大学",
-    "region": "kinki",
-    "type": "national",
-    "prefecture": "大阪府",
-    "website": "https://example.com/naniwa",
-    "lgbtqPolicies": {
-      "preferredName": "yes",
-      "samePartner": "partial",
-      "genderNeutralRestroom": "yes",
-      "genderFormConsideration": "yes",
-      "sogiTraining": "yes",
-      "antiOutingPolicy": "yes"
-    },
-    "supportSystem": {
-      "dedicatedConsultation": "yes",
-      "counselorSogiTraining": "yes",
-      "harassmentCooperation": "yes"
-    },
-    "studentGroups": [
-      {
-        "name": "浪速SOGIダイバーシティサークル",
-        "description": "SOGI関連の啓発活動を行う学生団体。"
-      }
-    ],
-    "declaration": {
-      "diversityDeclaration": true,
-      "publicPolicy": true,
-      "actionPlan": true,
-      "relatedUrls": [
-        {
-          "label": "ダイバーシティ＆インクルージョンセンター",
-          "url": "https://example.com/naniwa/diversity"
-        }
-      ]
-    },
-    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
-    "sources": [
-      {
-        "label": "浪速大学ダイバーシティ（ダミー）",
-        "url": "https://example.com/naniwa/diversity"
-      }
-    ],
-    "updatedAt": "2026-02-28"
-  },
-  {
     "slug": "yukiguni-university",
     "name": "雪国大学",
     "region": "hokkaido",
-    "type": "national",
+    "type": "national_public",
     "prefecture": "北海道",
     "website": "https://example.com/yukiguni",
     "lgbtqPolicies": {
-      "preferredName": "partial",
-      "samePartner": "no",
-      "genderNeutralRestroom": "partial",
-      "genderFormConsideration": "partial",
-      "sogiTraining": "partial",
+      "preferredName": "unknown",
+      "samePartner": "unknown",
+      "genderNeutralRestroom": "unknown",
+      "genderFormConsideration": "unknown",
+      "sogiTraining": "unknown",
       "antiOutingPolicy": "unknown"
     },
     "supportSystem": {
-      "dedicatedConsultation": "partial",
+      "dedicatedConsultation": "unknown",
       "counselorSogiTraining": "unknown",
-      "harassmentCooperation": "yes"
+      "harassmentCooperation": "unknown"
     },
     "studentGroups": [],
     "declaration": {
@@ -252,191 +27,193 @@
       "relatedUrls": []
     },
     "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
-    "sources": [
-      {
-        "label": "雪国大学ダイバーシティ（ダミー）",
-        "url": "https://example.com/yukiguni/diversity"
-      }
-    ],
-    "updatedAt": "2025-11-15"
+    "sources": [],
+    "updatedAt": "2026-04-01"
+  },
+  {
+    "slug": "michinoku-university",
+    "name": "みちのく大学",
+    "region": "tohoku",
+    "type": "national_public",
+    "prefecture": "宮城県",
+    "website": "https://example.com/michinoku",
+    "lgbtqPolicies": {
+      "preferredName": "unknown",
+      "samePartner": "unknown",
+      "genderNeutralRestroom": "unknown",
+      "genderFormConsideration": "unknown",
+      "sogiTraining": "unknown",
+      "antiOutingPolicy": "unknown"
+    },
+    "supportSystem": {
+      "dedicatedConsultation": "unknown",
+      "counselorSogiTraining": "unknown",
+      "harassmentCooperation": "unknown"
+    },
+    "studentGroups": [],
+    "declaration": {
+      "diversityDeclaration": false,
+      "publicPolicy": true,
+      "actionPlan": false,
+      "relatedUrls": []
+    },
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
+    "sources": [],
+    "updatedAt": "2026-04-01"
   },
   {
     "slug": "wakaba-university",
     "name": "若葉大学",
     "region": "kanto",
     "type": "private",
-    "prefecture": "東京都",
+    "prefecture": "埼玉県",
     "website": "https://example.com/wakaba",
     "lgbtqPolicies": {
-      "preferredName": "yes",
-      "samePartner": "partial",
-      "genderNeutralRestroom": "partial",
-      "genderFormConsideration": "yes",
-      "sogiTraining": "partial",
-      "antiOutingPolicy": "yes"
+      "preferredName": "unknown",
+      "samePartner": "unknown",
+      "genderNeutralRestroom": "unknown",
+      "genderFormConsideration": "unknown",
+      "sogiTraining": "unknown",
+      "antiOutingPolicy": "unknown"
     },
     "supportSystem": {
-      "dedicatedConsultation": "yes",
-      "counselorSogiTraining": "partial",
-      "harassmentCooperation": "yes"
-    },
-    "studentGroups": [
-      {
-        "name": "若葉LGBTQアライアンス",
-        "description": "学内のLGBTQ+学生とアライの交流・啓発団体。"
-      }
-    ],
-    "declaration": {
-      "diversityDeclaration": true,
-      "publicPolicy": true,
-      "actionPlan": false,
-      "relatedUrls": [
-        {
-          "label": "協生環境推進室",
-          "url": "https://example.com/wakaba/diversity"
-        }
-      ]
-    },
-    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
-    "sources": [
-      {
-        "label": "若葉大学協生環境推進室（ダミー）",
-        "url": "https://example.com/wakaba/diversity"
-      }
-    ],
-    "updatedAt": "2026-01-10"
-  },
-  {
-    "slug": "hakata-university",
-    "name": "博多大学",
-    "region": "kyushu_okinawa",
-    "type": "national",
-    "prefecture": "福岡県",
-    "website": "https://example.com/hakata",
-    "lgbtqPolicies": {
-      "preferredName": "yes",
-      "samePartner": "no",
-      "genderNeutralRestroom": "partial",
-      "genderFormConsideration": "yes",
-      "sogiTraining": "partial",
-      "antiOutingPolicy": "partial"
-    },
-    "supportSystem": {
-      "dedicatedConsultation": "partial",
-      "counselorSogiTraining": "partial",
-      "harassmentCooperation": "yes"
-    },
-    "studentGroups": [
-      {
-        "name": "博多Rainbow",
-        "description": "セクシュアルマイノリティの学生による公認サークル。"
-      }
-    ],
-    "declaration": {
-      "diversityDeclaration": true,
-      "publicPolicy": true,
-      "actionPlan": false,
-      "relatedUrls": [
-        {
-          "label": "男女共同参画推進室",
-          "url": "https://example.com/hakata/gender"
-        }
-      ]
-    },
-    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
-    "sources": [
-      {
-        "label": "博多大学男女共同参画推進室（ダミー）",
-        "url": "https://example.com/hakata/gender"
-      }
-    ],
-    "updatedAt": "2026-02-01"
-  },
-  {
-    "slug": "nijiirodai",
-    "name": "虹色大学",
-    "region": "kanto",
-    "type": "private",
-    "prefecture": "東京都",
-    "website": "https://example.com/nijiiro",
-    "lgbtqPolicies": {
-      "preferredName": "yes",
-      "samePartner": "yes",
-      "genderNeutralRestroom": "yes",
-      "genderFormConsideration": "yes",
-      "sogiTraining": "yes",
-      "antiOutingPolicy": "yes"
-    },
-    "supportSystem": {
-      "dedicatedConsultation": "yes",
-      "counselorSogiTraining": "yes",
-      "harassmentCooperation": "yes"
-    },
-    "studentGroups": [
-      {
-        "name": "虹色アライアンス",
-        "description": "学生主導のLGBTQ+支援団体。映画上映会やワークショップを開催。"
-      }
-    ],
-    "declaration": {
-      "diversityDeclaration": true,
-      "publicPolicy": true,
-      "actionPlan": true,
-      "relatedUrls": [
-        {
-          "label": "ジェンダー研究センター",
-          "url": "https://example.com/nijiiro/gender"
-        }
-      ]
-    },
-    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
-    "sources": [
-      {
-        "label": "虹色大学ジェンダー研究センター（ダミー）",
-        "url": "https://example.com/nijiiro/gender"
-      }
-    ],
-    "updatedAt": "2026-03-10"
-  },
-  {
-    "slug": "chubu-midori-university",
-    "name": "中部みどり大学",
-    "region": "chubu",
-    "type": "public",
-    "prefecture": "愛知県",
-    "website": "https://example.com/chubu-midori",
-    "lgbtqPolicies": {
-      "preferredName": "yes",
-      "samePartner": "partial",
-      "genderNeutralRestroom": "partial",
-      "genderFormConsideration": "yes",
-      "sogiTraining": "yes",
-      "antiOutingPolicy": "yes"
-    },
-    "supportSystem": {
-      "dedicatedConsultation": "yes",
-      "counselorSogiTraining": "partial",
-      "harassmentCooperation": "yes"
+      "dedicatedConsultation": "unknown",
+      "counselorSogiTraining": "unknown",
+      "harassmentCooperation": "unknown"
     },
     "studentGroups": [],
     "declaration": {
       "diversityDeclaration": true,
       "publicPolicy": true,
       "actionPlan": true,
-      "relatedUrls": [
-        {
-          "label": "男女共同参画室",
-          "url": "https://example.com/chubu-midori/gender"
-        }
-      ]
+      "relatedUrls": []
     },
     "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
-    "sources": [
-      {
-        "label": "中部みどり大学男女共同参画室（ダミー）",
-        "url": "https://example.com/chubu-midori/gender"
-      }
-    ],
-    "updatedAt": "2026-01-25"
+    "sources": [],
+    "updatedAt": "2026-04-01"
+  },
+  {
+    "slug": "midori-university",
+    "name": "みどり大学",
+    "region": "chubu",
+    "type": "national_public",
+    "prefecture": "長野県",
+    "website": "https://example.com/midori",
+    "lgbtqPolicies": {
+      "preferredName": "unknown",
+      "samePartner": "unknown",
+      "genderNeutralRestroom": "unknown",
+      "genderFormConsideration": "unknown",
+      "sogiTraining": "unknown",
+      "antiOutingPolicy": "unknown"
+    },
+    "supportSystem": {
+      "dedicatedConsultation": "unknown",
+      "counselorSogiTraining": "unknown",
+      "harassmentCooperation": "unknown"
+    },
+    "studentGroups": [],
+    "declaration": {
+      "diversityDeclaration": false,
+      "publicPolicy": false,
+      "actionPlan": true,
+      "relatedUrls": []
+    },
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
+    "sources": [],
+    "updatedAt": "2026-04-01"
+  },
+  {
+    "slug": "momiji-university",
+    "name": "紅葉大学",
+    "region": "kinki",
+    "type": "private",
+    "prefecture": "兵庫県",
+    "website": "https://example.com/momiji",
+    "lgbtqPolicies": {
+      "preferredName": "unknown",
+      "samePartner": "unknown",
+      "genderNeutralRestroom": "unknown",
+      "genderFormConsideration": "unknown",
+      "sogiTraining": "unknown",
+      "antiOutingPolicy": "unknown"
+    },
+    "supportSystem": {
+      "dedicatedConsultation": "unknown",
+      "counselorSogiTraining": "unknown",
+      "harassmentCooperation": "unknown"
+    },
+    "studentGroups": [],
+    "declaration": {
+      "diversityDeclaration": true,
+      "publicPolicy": true,
+      "actionPlan": false,
+      "relatedUrls": []
+    },
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
+    "sources": [],
+    "updatedAt": "2026-04-01"
+  },
+  {
+    "slug": "shimanami-university",
+    "name": "しまなみ大学",
+    "region": "chugoku_shikoku",
+    "type": "national_public",
+    "prefecture": "広島県",
+    "website": "https://example.com/shimanami",
+    "lgbtqPolicies": {
+      "preferredName": "unknown",
+      "samePartner": "unknown",
+      "genderNeutralRestroom": "unknown",
+      "genderFormConsideration": "unknown",
+      "sogiTraining": "unknown",
+      "antiOutingPolicy": "unknown"
+    },
+    "supportSystem": {
+      "dedicatedConsultation": "unknown",
+      "counselorSogiTraining": "unknown",
+      "harassmentCooperation": "unknown"
+    },
+    "studentGroups": [],
+    "declaration": {
+      "diversityDeclaration": false,
+      "publicPolicy": true,
+      "actionPlan": true,
+      "relatedUrls": []
+    },
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
+    "sources": [],
+    "updatedAt": "2026-04-01"
+  },
+  {
+    "slug": "aozora-university",
+    "name": "青空大学",
+    "region": "kyushu_okinawa",
+    "type": "private",
+    "prefecture": "熊本県",
+    "website": "https://example.com/aozora",
+    "lgbtqPolicies": {
+      "preferredName": "unknown",
+      "samePartner": "unknown",
+      "genderNeutralRestroom": "unknown",
+      "genderFormConsideration": "unknown",
+      "sogiTraining": "unknown",
+      "antiOutingPolicy": "unknown"
+    },
+    "supportSystem": {
+      "dedicatedConsultation": "unknown",
+      "counselorSogiTraining": "unknown",
+      "harassmentCooperation": "unknown"
+    },
+    "studentGroups": [],
+    "declaration": {
+      "diversityDeclaration": true,
+      "publicPolicy": false,
+      "actionPlan": true,
+      "relatedUrls": []
+    },
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
+    "sources": [],
+    "updatedAt": "2026-04-01"
   }
 ]
