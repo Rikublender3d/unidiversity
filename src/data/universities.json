@@ -1,11 +1,11 @@
 [
   {
-    "slug": "tokyo-university",
-    "name": "東京大学",
+    "slug": "aozora-university",
+    "name": "青空大学",
     "region": "kanto",
     "type": "national",
     "prefecture": "東京都",
-    "website": "https://www.u-tokyo.ac.jp/",
+    "website": "https://example.com/aozora",
     "lgbtqPolicies": {
       "preferredName": "yes",
       "samePartner": "partial",
@@ -21,7 +21,7 @@
     },
     "studentGroups": [
       {
-        "name": "東大LGBTQ+サークル",
+        "name": "青空レインボー",
         "description": "学内のLGBTQ+学生が集まる公認サークル。月例イベントや相談会を実施。"
       }
     ],
@@ -32,26 +32,26 @@
       "relatedUrls": [
         {
           "label": "ダイバーシティ推進本部",
-          "url": "https://www.u-tokyo.ac.jp/ja/about/actions/diversity.html"
+          "url": "https://example.com/aozora/diversity"
         }
       ]
     },
-    "notes": "2017年にダイバーシティ&インクルージョン宣言を発表。全学的な取り組みを推進中。",
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
     "sources": [
       {
-        "label": "東京大学ダイバーシティ推進",
-        "url": "https://www.u-tokyo.ac.jp/ja/about/actions/diversity.html"
+        "label": "青空大学ダイバーシティ推進（ダミー）",
+        "url": "https://example.com/aozora/diversity"
       }
     ],
     "updatedAt": "2026-03-01"
   },
   {
-    "slug": "kyoto-university",
-    "name": "京都大学",
+    "slug": "momiji-university",
+    "name": "紅葉大学",
     "region": "kinki",
     "type": "national",
     "prefecture": "京都府",
-    "website": "https://www.kyoto-u.ac.jp/",
+    "website": "https://example.com/momiji",
     "lgbtqPolicies": {
       "preferredName": "yes",
       "samePartner": "partial",
@@ -67,7 +67,7 @@
     },
     "studentGroups": [
       {
-        "name": "京大レインボーネットワーク",
+        "name": "紅葉レインボーネットワーク",
         "description": "セクシュアルマイノリティの学生・教職員のための交流団体。"
       }
     ],
@@ -78,26 +78,26 @@
       "relatedUrls": [
         {
           "label": "男女共同参画推進センター",
-          "url": "https://www.kyoto-u.ac.jp/ja/about/organization/equity"
+          "url": "https://example.com/momiji/equity"
         }
       ]
     },
-    "notes": "男女共同参画推進センターが中心となりSOGIに関する施策を展開。",
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
     "sources": [
       {
-        "label": "京都大学男女共同参画推進センター",
-        "url": "https://www.kyoto-u.ac.jp/ja/about/organization/equity"
+        "label": "紅葉大学男女共同参画推進センター（ダミー）",
+        "url": "https://example.com/momiji/equity"
       }
     ],
     "updatedAt": "2026-02-15"
   },
   {
-    "slug": "waseda-university",
-    "name": "早稲田大学",
+    "slug": "hikari-university",
+    "name": "ひかり大学",
     "region": "kanto",
     "type": "private",
     "prefecture": "東京都",
-    "website": "https://www.waseda.jp/",
+    "website": "https://example.com/hikari",
     "lgbtqPolicies": {
       "preferredName": "yes",
       "samePartner": "yes",
@@ -113,8 +113,8 @@
     },
     "studentGroups": [
       {
-        "name": "GLOW",
-        "description": "早稲田大学公認のLGBTQ+学生団体。啓発イベントやスピーカーセッションを実施。"
+        "name": "ひかりプライド",
+        "description": "LGBTQ+学生団体。啓発イベントやスピーカーセッションを実施。"
       }
     ],
     "declaration": {
@@ -124,26 +124,26 @@
       "relatedUrls": [
         {
           "label": "ダイバーシティ推進室",
-          "url": "https://www.waseda.jp/inst/diversity/"
+          "url": "https://example.com/hikari/diversity"
         }
       ]
     },
-    "notes": "同性パートナーへの福利厚生制度を私立大学として早期に導入。",
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
     "sources": [
       {
-        "label": "早稲田大学ダイバーシティ推進室",
-        "url": "https://www.waseda.jp/inst/diversity/"
+        "label": "ひかり大学ダイバーシティ推進室（ダミー）",
+        "url": "https://example.com/hikari/diversity"
       }
     ],
     "updatedAt": "2026-01-20"
   },
   {
-    "slug": "tohoku-university",
-    "name": "東北大学",
+    "slug": "michinoku-university",
+    "name": "みちのく大学",
     "region": "tohoku",
     "type": "national",
     "prefecture": "宮城県",
-    "website": "https://www.tohoku.ac.jp/",
+    "website": "https://example.com/michinoku",
     "lgbtqPolicies": {
       "preferredName": "yes",
       "samePartner": "no",
@@ -165,26 +165,26 @@
       "relatedUrls": [
         {
           "label": "男女共同参画推進センター",
-          "url": "https://www.tohoku.ac.jp/japanese/gender/"
+          "url": "https://example.com/michinoku/gender"
         }
       ]
     },
-    "notes": "ダイバーシティ推進に取り組み始めているが、LGBTQ施策は発展途上。",
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
     "sources": [
       {
-        "label": "東北大学ダイバーシティ推進",
-        "url": "https://www.tohoku.ac.jp/japanese/gender/"
+        "label": "みちのく大学ダイバーシティ推進（ダミー）",
+        "url": "https://example.com/michinoku/diversity"
       }
     ],
     "updatedAt": "2025-12-10"
   },
   {
-    "slug": "osaka-university",
-    "name": "大阪大学",
+    "slug": "naniwa-university",
+    "name": "浪速大学",
     "region": "kinki",
     "type": "national",
     "prefecture": "大阪府",
-    "website": "https://www.osaka-u.ac.jp/",
+    "website": "https://example.com/naniwa",
     "lgbtqPolicies": {
       "preferredName": "yes",
       "samePartner": "partial",
@@ -200,7 +200,7 @@
     },
     "studentGroups": [
       {
-        "name": "阪大SOGIダイバーシティサークル",
+        "name": "浪速SOGIダイバーシティサークル",
         "description": "SOGI関連の啓発活動を行う学生団体。"
       }
     ],
@@ -211,26 +211,26 @@
       "relatedUrls": [
         {
           "label": "ダイバーシティ＆インクルージョンセンター",
-          "url": "https://www.osaka-u.ac.jp/ja/diversity"
+          "url": "https://example.com/naniwa/diversity"
         }
       ]
     },
-    "notes": "2020年にダイバーシティ＆インクルージョンセンターを設置。積極的な施策展開。",
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
     "sources": [
       {
-        "label": "大阪大学ダイバーシティ",
-        "url": "https://www.osaka-u.ac.jp/ja/diversity"
+        "label": "浪速大学ダイバーシティ（ダミー）",
+        "url": "https://example.com/naniwa/diversity"
       }
     ],
     "updatedAt": "2026-02-28"
   },
   {
-    "slug": "hokkaido-university",
-    "name": "北海道大学",
+    "slug": "yukiguni-university",
+    "name": "雪国大学",
     "region": "hokkaido",
     "type": "national",
     "prefecture": "北海道",
-    "website": "https://www.hokudai.ac.jp/",
+    "website": "https://example.com/yukiguni",
     "lgbtqPolicies": {
       "preferredName": "partial",
       "samePartner": "no",
@@ -251,22 +251,22 @@
       "actionPlan": false,
       "relatedUrls": []
     },
-    "notes": "ダイバーシティ宣言はあるが、LGBTQ個別施策はこれから充実が期待される。",
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
     "sources": [
       {
-        "label": "北海道大学ダイバーシティ",
-        "url": "https://www.hokudai.ac.jp/gender/"
+        "label": "雪国大学ダイバーシティ（ダミー）",
+        "url": "https://example.com/yukiguni/diversity"
       }
     ],
     "updatedAt": "2025-11-15"
   },
   {
-    "slug": "keio-university",
-    "name": "慶應義塾大学",
+    "slug": "wakaba-university",
+    "name": "若葉大学",
     "region": "kanto",
     "type": "private",
     "prefecture": "東京都",
-    "website": "https://www.keio.ac.jp/",
+    "website": "https://example.com/wakaba",
     "lgbtqPolicies": {
       "preferredName": "yes",
       "samePartner": "partial",
@@ -282,7 +282,7 @@
     },
     "studentGroups": [
       {
-        "name": "慶應LGBTQアライアンス",
+        "name": "若葉LGBTQアライアンス",
         "description": "学内のLGBTQ+学生とアライの交流・啓発団体。"
       }
     ],
@@ -293,26 +293,26 @@
       "relatedUrls": [
         {
           "label": "協生環境推進室",
-          "url": "https://www.keio.ac.jp/ja/about/diversity/"
+          "url": "https://example.com/wakaba/diversity"
         }
       ]
     },
-    "notes": "協生環境推進室を設置し、ダイバーシティ推進に取り組む。",
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
     "sources": [
       {
-        "label": "慶應義塾大学協生環境推進室",
-        "url": "https://www.keio.ac.jp/ja/about/diversity/"
+        "label": "若葉大学協生環境推進室（ダミー）",
+        "url": "https://example.com/wakaba/diversity"
       }
     ],
     "updatedAt": "2026-01-10"
   },
   {
-    "slug": "kyushu-university",
-    "name": "九州大学",
+    "slug": "hakata-university",
+    "name": "博多大学",
     "region": "kyushu_okinawa",
     "type": "national",
     "prefecture": "福岡県",
-    "website": "https://www.kyushu-u.ac.jp/",
+    "website": "https://example.com/hakata",
     "lgbtqPolicies": {
       "preferredName": "yes",
       "samePartner": "no",
@@ -328,7 +328,7 @@
     },
     "studentGroups": [
       {
-        "name": "九大Rainbow",
+        "name": "博多Rainbow",
         "description": "セクシュアルマイノリティの学生による公認サークル。"
       }
     ],
@@ -339,26 +339,26 @@
       "relatedUrls": [
         {
           "label": "男女共同参画推進室",
-          "url": "https://www.kyushu-u.ac.jp/ja/university/diversity/"
+          "url": "https://example.com/hakata/gender"
         }
       ]
     },
-    "notes": "男女共同参画推進室が中心。LGBTQ施策は徐々に拡充中。",
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
     "sources": [
       {
-        "label": "九州大学男女共同参画推進室",
-        "url": "https://www.kyushu-u.ac.jp/ja/university/diversity/"
+        "label": "博多大学男女共同参画推進室（ダミー）",
+        "url": "https://example.com/hakata/gender"
       }
     ],
     "updatedAt": "2026-02-01"
   },
   {
-    "slug": "international-christian-university",
-    "name": "国際基督教大学",
+    "slug": "nijiirodai",
+    "name": "虹色大学",
     "region": "kanto",
     "type": "private",
     "prefecture": "東京都",
-    "website": "https://www.icu.ac.jp/",
+    "website": "https://example.com/nijiiro",
     "lgbtqPolicies": {
       "preferredName": "yes",
       "samePartner": "yes",
@@ -374,7 +374,7 @@
     },
     "studentGroups": [
       {
-        "name": "ICU LGBTQ+ Alliance",
+        "name": "虹色アライアンス",
         "description": "学生主導のLGBTQ+支援団体。映画上映会やワークショップを開催。"
       }
     ],
@@ -385,26 +385,26 @@
       "relatedUrls": [
         {
           "label": "ジェンダー研究センター",
-          "url": "https://www.icu.ac.jp/en/liberalarts/cgender/"
+          "url": "https://example.com/nijiiro/gender"
         }
       ]
     },
-    "notes": "リベラルアーツ教育の一環としてジェンダー・セクシュアリティの多様性を重視。国内でも先進的な取り組み。",
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
     "sources": [
       {
-        "label": "ICU ジェンダー研究センター",
-        "url": "https://www.icu.ac.jp/en/liberalarts/cgender/"
+        "label": "虹色大学ジェンダー研究センター（ダミー）",
+        "url": "https://example.com/nijiiro/gender"
       }
     ],
     "updatedAt": "2026-03-10"
   },
   {
-    "slug": "nagoya-university",
-    "name": "名古屋大学",
+    "slug": "chubu-midori-university",
+    "name": "中部みどり大学",
     "region": "chubu",
-    "type": "national",
+    "type": "public",
     "prefecture": "愛知県",
-    "website": "https://www.nagoya-u.ac.jp/",
+    "website": "https://example.com/chubu-midori",
     "lgbtqPolicies": {
       "preferredName": "yes",
       "samePartner": "partial",
@@ -426,15 +426,15 @@
       "relatedUrls": [
         {
           "label": "男女共同参画室",
-          "url": "https://www.nagoya-u.ac.jp/about-nu/declaration/gender/"
+          "url": "https://example.com/chubu-midori/gender"
         }
       ]
     },
-    "notes": "SOGIに関するガイドラインを策定し、教職員向け研修を定期実施。",
+    "notes": "これはプロトタイプ用のダミーデータです。実際の大学の情報ではありません。",
     "sources": [
       {
-        "label": "名古屋大学男女共同参画室",
-        "url": "https://www.nagoya-u.ac.jp/about-nu/declaration/gender/"
+        "label": "中部みどり大学男女共同参画室（ダミー）",
+        "url": "https://example.com/chubu-midori/gender"
       }
     ],
     "updatedAt": "2026-01-25"
