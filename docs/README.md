@@ -7,10 +7,10 @@
 | ドキュメント | 内容 | 主な担当 |
 |---|---|---|
 | [requirements.md](./requirements.md) | プロジェクト概要・全体の要件定義 | 全員 |
-| [survey-guide.md](./survey-guide.md) | 調査項目・判定基準・調査の進め方 | まさ（設計） / なつは・まゆこ（調査） |
-| [design-guide.md](./design-guide.md) | デザイン方針・UI仕様・トーン | しおり |
+| [survey-guide.md](./survey-guide.md) | 調査項目・判定基準・調査の進め方 | まささん・なつはさん・まゆこさん |
+| [design-guide.md](./design-guide.md) | デザイン方針・UI仕様・トーン | しおりさん |
 | [tech-spec.md](./tech-spec.md) | 技術仕様・データモデル・画面構成 | りく |
-| [team.md](./team.md) | 役割分担・スケジュール・進め方 | まさ / 全員 |
+| [team.md](./team.md) | 役割分担・スケジュール・進め方 | 全員 |
 
 ## ステータス
 
